@@ -1,0 +1,16 @@
+.counterContainer {
+  width: 450px;
+  height: 370px;
+  border: 2px solid black;
+  border-radius: 10px;
+  margin: 0 auto;
+  gap: 20px;
+  background-color: black;
+}
+
+.buttonsContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 150px;
+}

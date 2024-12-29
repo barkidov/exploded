@@ -1,0 +1,19 @@
+.counterDisplay {
+  width: 400px;
+  height: 230px;
+  border-radius: 10px;
+  margin: 20px auto;
+  background-color: rgb(225, 255, 0);
+  font-size: 150px;
+  text-align: center;
+}
+
+.redCount {
+  color: red;
+}
+
+img {
+  width: 400px;
+  height: 230px;
+  border-radius: 10px;
+}
