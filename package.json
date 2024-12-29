@@ -42,10 +42,10 @@
       "last 1 chrome version",
       "last 1 firefox version",
       "last 1 safari version"
-    ],
-    "homepage": "https://barkidov.github.io/exploded"
-  },
+    ]
+    },
   "devDependencies": {
     "gh-pages": "^6.2.0"
-  }
+  },
+  "homepage": "https://barkidov.github.io/exploded"
 }
